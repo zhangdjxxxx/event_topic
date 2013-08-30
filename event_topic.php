@@ -3,6 +3,7 @@ $GLOBALS['EVENT_TOPIC_RULE'] = array(
 
 	//投放策略
 	'REG_TO_TOPIC' => array(
+		'//'
 		'/造价/'=>227,
 		'/GMAT|gmat|经企管理/'=>226,
 		'/六级|cet6|CET6/'=>225,
